@@ -12,5 +12,12 @@
             "color": "#2335d9ff",
             "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png",
         }
+        {
+            "tag": "Apache",
+            "stroke": "#d9232b",
+            "color": "#d9232b",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg",
+        }
+
     ]
 }
