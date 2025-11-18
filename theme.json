@@ -10,13 +10,13 @@
             "tag": "HA Proxy",
             "stroke": "#2335d9",
             "color": "#2335d9",
-            "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png"
         },
         {
             "tag": "Varnish",
             "stroke": "#aa39eb",
             "color": "#aa39eb",
-            "icon": "https://info.varnish-software.com/hubfs/Logos/Varnish%20Software%20logos/Logos%20for%20Website%20(Branding%20IMP)/Varnish%20Software%20Logo%20Blue%20and%20Black_rgb-1.png",
+            "icon": "https://info.varnish-software.com/hubfs/Logos/Varnish%20Software%20logos/Logos%20for%20Website%20(Branding%20IMP)/Varnish%20Software%20Logo%20Blue%20and%20Black_rgb-1.png"
         },
         {
             "tag": "Apache",
